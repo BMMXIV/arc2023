@@ -1,11 +1,11 @@
 {
     "name": "ARM Rally Championship 2023",
-    "version": "23.0916",
+    "version": "23.0920",
     "packages": {
         "arc_cars": {
             "description": "ARC cars",
-            "version": "23.0916",
-            "checksum": "404756b08b3a7720830b3e51cdaeaca16994195cf376116d239942ebcb25add9",
+            "version": "23.0920",
+            "checksum": "8d3e0380b8d0d3ed95c4ee094c43e48c429343ba910c7cb7edd9e9f3e34e7270",
             "url": "https://bmmxiv.github.io/arc2023/arc2023_cars.zip",
             "file": "arc2023_cars.zip"
         },
