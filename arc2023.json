@@ -1,6 +1,6 @@
 {
     "name": "ARM Rally Championship 2023",
-    "version": "23.1008",
+    "version": "23.1009",
     "packages": {
         "arc_cars": {
             "description": "ARC cars",
@@ -29,6 +29,13 @@
             "checksum": "1e7b37722d27d5b320605e94509f48d62caf094ca19b69b6a5a78a0ea120f7ce",
             "url": "https://bmmxiv.github.io/arc2023/arc2023_t2b.zip",
             "file": "arc2023_t2b.zip"
+        },
+        "arc_t3_tracks": {
+            "description": "ARC Tappa 3 tracks",
+            "version": "23.1009",
+            "checksum": "2cb672d6c474a32d9064ee20f46bc8736b315f2f374b4c7984f457bcf2f21f87",
+            "url": "https://bmmxiv.github.io/arc2023/arc2023_t3.7z",
+            "file": "arc2023_t3.7z"
         }
     }
 }
